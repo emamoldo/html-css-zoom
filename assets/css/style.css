@@ -32,24 +32,32 @@ body{
     padding-top: 20px;
 }
 .photo{
-    width: 105px;
-    height: 150px;
+    width: 120px;
+    height: 145px;
     display: flex;
 }
  .photo p{
     color: var(--zoom-text-icon-color);
     position: absolute;
     background-color: #4a4a4a;
-    
  }
-
-
-
 /* /Site Main */
 
-
 /* Site Footer */
-
-
-
+.footer{
+    display: flex;
+    margin-top: 20px;
+    height: 10vh;
+    width: 95vw;
+    background-color: var(--zoom-footer-color);
+}
+.fa{
+    font-size: 30px;
+}   
+.end{
+    display: flex;
+    width: 5vw;
+    background-color: var(--zoom-head-backg-color);
+      
+}
 /* /Site Footer */
