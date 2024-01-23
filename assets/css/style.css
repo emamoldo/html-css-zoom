@@ -23,11 +23,25 @@ body{
     font-size: 20px;
 }
 
-
-
 /* /Site Header */
 
 /* Site Main */
+.photo_container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.photo{
+    width: 105px;
+    height: 150px;
+    display: flex;
+}
+ .photo p{
+    color: var(--zoom-text-icon-color);
+    position: absolute;
+    background-color: #4a4a4a;
+    
+ }
 
 
 
