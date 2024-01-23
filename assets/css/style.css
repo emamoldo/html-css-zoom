@@ -1,0 +1,41 @@
+body{
+    background-color: var(--zoom-backg-color);
+}
+:root{
+    --zoom-backg-color: #010100;
+    --zoom-head-backg-color: #4a4a4a;
+    --zoom-text-icon-color: #ffffff;
+    --zoom-footer-color: #232322;
+    --zoom-share-color: #4bc901;
+    --zoom-end-conv-color: #c41716;
+}
+
+/* Site Header */
+.head_container{
+    display: flex;
+    justify-content: flex-end;
+}
+.button{
+    background-color: var(--zoom-head-backg-color);
+    color: var(--zoom-text-icon-color);
+    border-radius: 10px;
+    height: 30px;
+    font-size: 20px;
+}
+
+
+
+/* /Site Header */
+
+/* Site Main */
+
+
+
+/* /Site Main */
+
+
+/* Site Footer */
+
+
+
+/* /Site Footer */
